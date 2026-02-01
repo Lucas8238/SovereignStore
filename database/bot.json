@@ -1,0 +1,23 @@
+{
+    "vendas": true,
+    "acesstoken": "APP_USR-3770444214043051-110203-52d862037e2fe21017f7b02740141592-1282208052",
+    "pix": true,
+    "qrcode": true,
+    "pagarsite": true,
+    "semi": false,
+    "semiauto": {
+        "pix": "15996388444",
+        "qrcode": "",
+        "role": "1116484621014675466",
+        "tipo": "Chave de Telefone"
+    },
+    "termos": "sem termos",
+    "channel_logs": "1466573608519471318",
+    "role": "1465581074364239903",
+    "category": "1465564303154352266",
+    "blockbank": [
+        "Banco Inter S.A.",
+        "Picpay Serviços S.A."
+    ],
+    "channel_public": "1465571923034509415"
+}

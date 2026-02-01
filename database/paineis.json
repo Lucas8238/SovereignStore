@@ -1,0 +1,34 @@
+{
+    "40": {
+        "00": {
+            "title": "Sovereign Store | BEM VINDO!! | Painel",
+            "desc": "``` Sem Descrição ```",
+            "produtos": [
+                "conta de twins"
+            ],
+            "banner": "remover",
+            "placeholder": "Escolha um Produto"
+        }
+    },
+    "elowork": {
+        "title": "Sovereign Store | BEM VINDO!! | Painel",
+        "desc": " **Elo Job - Volleyball Legends**\n\n・ Quer subir de ranking rápido no Volleyball Legends? Aqui você pode solicitar serviços de Elo Job com segurança e rapidez!\n\nCampos:\n\n- Serviço Disponível: Elo Job\n- Ranks: Prata, Ouro, Diamante, Pro\n- Tempo Estimado: 3-5 dias!\n- Garantia: Trabalho seguro e sigiloso\n\n・ Quaisquer mudanças vão ser avisadas com antecedência aqui. ",
+        "produtos": [
+            "prata",
+            "gold",
+            "diamon",
+            "pro"
+        ],
+        "banner": "https://cdn.discordapp.com/attachments/1466947653278503174/1466953771312484392/ChatGPT_Image_30_de_jan._de_2026_21_14_36.png?ex=697e9ea9&is=697d4d29&hm=06d9d6c3c7afb20745a52af90773729b0b9e56d49ebf5feacfa39f6580467e94&",
+        "placeholder": "Escolha um Produto"
+    },
+    "contas": {
+        "title": "Contas de Volleyball Legends",
+        "desc": "・As Contas Podem Vim Com Coisas a Mais\n・Entrega Na Mesma Hora!\n・Garantia De Qualidade!\n\n・ Lembrem-se que damos apenas garantia de entrada na conta, leia os <#1465567470554447943> para mais informações.",
+        "produtos": [
+            "conta de twins"
+        ],
+        "banner": "https://cdn.discordapp.com/attachments/1466947653278503174/1466981798666829824/contas.png?ex=697eb8c4&is=697d6744&hm=4832dded59f8e78c0d362a2c3ded353dd6529c7a4249fe9d0e32ddac6b1abb1c&",
+        "placeholder": "Escolha um Produto"
+    }
+}
